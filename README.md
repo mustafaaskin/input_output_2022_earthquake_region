@@ -12,19 +12,24 @@ Adana, Adıyaman,Diyarbakır,Elazığ, Gaziantep, Hatay, Kahramanmaraş Kilis, M
 
 Provinces Data have been summed, and estimated via using ratio to total GDP from TurkStat regional statistics
 
+1. input_output_yurtici_bolgesel_TR911_2022_Turkiye_v02.xlsx
 
 Mustafa AŞKIN Tarafından Analiz Amaçlı Oluşturulmuştur, Arz ve Kullanım Tabloları, Girdi-Çıktı Tabloları, 2022
 
 Estimated by Mustafa AŞKIN for experimental purposes, Supply and Use Tables, Input-Output Tables, 2022
+
+
 
 Türkiye İstatistik Kurumu 2012 Girdi-Çıktı Tablolarından revize edilmiş ve genişletilmiştir. Resmi İstatistik DEĞİLDİR.
 
 Revised and Extended from 2012 Turkiye Input-Output Table by estimated TurkStat. This is NOT an Offical Release.
 
 
+2. ds_input_output_Deprem_Sonrasi_yurtici_bolgesel_TR911_2022_Turkiye_v01.xlsx
 
 Deprem Etkisini analiz etmek için deprem sonrası için yeni 2022 Bölgesel Girdi Çıktı Tablosu oluşturuldu.
 A new Regional Input-Output Tables for after earthquakes, 2022, estimated for analysis the affect of earthquakes.
+
 
 Mustafa AŞKIN Tarafından Analiz Amaçlı Oluşturulmuştur, Deprem Sonrasi Analiz Arz ve Kullanım Tabloları, Bölgesel Girdi-Çıktı Tabloları, 2022
 
