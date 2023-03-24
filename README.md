@@ -23,3 +23,9 @@ Revised and Extended from 2012 Turkiye Input-Output Table by estimated TurkStat.
 
 
 
+Deprem Etkisini analiz etmek için deprem sonrası için yeni 2022 Bölgesel Girdi Çıktı Tablosu oluşturuldu.
+A new Regional Input-Output Tables for after earthquakes, 2022, estimated for analysis the affect of earthquakes.
+
+Mustafa AŞKIN Tarafından Analiz Amaçlı Oluşturulmuştur, Deprem Sonrasi Analiz Arz ve Kullanım Tabloları, Bölgesel Girdi-Çıktı Tabloları, 2022
+
+Estimated by Mustafa AŞKIN for experimental purposes, After Earthquake Analysis Supply and Use Tables, Regional Input-Output Tables, 2022
